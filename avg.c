@@ -12,5 +12,5 @@ void main()
             sum=sum+num;
         }
         avg=sum/n;
-        printf("Average of numbers:%f", avg);
+        printf("Average of number:%f", avg);
 }
